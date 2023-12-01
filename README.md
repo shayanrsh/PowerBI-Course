@@ -1,7 +1,7 @@
 # Microsoft Power BI Desktop for Business Intelligence 📊
 ![](https://github.com/shayanrsh/PowerBI-Course/blob/main/Power%20Bi%20Udemy%20Course%20Project%20LQ.gif)
 
-This is a course project for ![](https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop) which teaches how to use Power BI to create interactive dashboards and reports.
+This is a course project for [Microsoft Power BI Desktop for Business Intelligence](https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop) which teaches how to use Power BI to create interactive dashboards and reports.
 
 ## What I learned 💡
 
