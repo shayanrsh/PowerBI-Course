@@ -3,7 +3,7 @@
 
 This is a course project for [Microsoft Power BI Desktop for Business Intelligence](https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop), which teaches how to use Power BI to create interactive dashboards and reports.
 
-## What I've Learned
+## What I've Learned 📚
 
 - **Data Connection & Transformation**: Mastered the use of Power Query to connect, import, and transform data from various sources.
 - **Data Modeling**: Developed a solid understanding of building relational data models and utilizing DAX for advanced calculations.
@@ -11,14 +11,14 @@ This is a course project for [Microsoft Power BI Desktop for Business Intelligen
 - **AI Tools**: Explored artificial intelligence tools within Power BI to enhance data analysis.
 - **Real-World Projects**: Completed two full-scale course projects, simulating the role of a Business Intelligence Analyst.
 
-## Achievements
+## Achievements 🌟
 
 - **Hands-On Experience**: Gained practical experience by working on real-world datasets and business scenarios.
 - **Problem-Solving Skills**: Enhanced my analytical thinking by solving complex data challenges.
 - **Certification**: Earned a certificate of completion, validating my expertise in Power BI Desktop.
 - **Portfolio Development**: Built a portfolio of reports and dashboards that showcase my ability to derive insights and make data-driven decisions.
 
-## Projects
+## Projects 💼
 
 Here are some highlights of the projects I've worked on during the course:
 
