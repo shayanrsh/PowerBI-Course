@@ -3,28 +3,28 @@
 
 This is a course project for [Microsoft Power BI Desktop for Business Intelligence](https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop), which teaches how to use Power BI to create interactive dashboards and reports.
 
-## What I Learned 💡
+## What I've Learned
 
-In this course, I learned how to:
+- **Data Connection & Transformation**: Mastered the use of Power Query to connect, import, and transform data from various sources.
+- **Data Modeling**: Developed a solid understanding of building relational data models and utilizing DAX for advanced calculations.
+- **Interactive Dashboards**: Learned to design and implement interactive dashboards with advanced visualization techniques.
+- **AI Tools**: Explored artificial intelligence tools within Power BI to enhance data analysis.
+- **Real-World Projects**: Completed two full-scale course projects, simulating the role of a Business Intelligence Analyst.
 
-- Connect to various data sources, such as Excel, CSV, web, SQL Server, and more.
-- Transform and clean data using Power Query Editor.
-- Create relationships and data models using Power BI Desktop.
-- Use DAX (Data Analysis Expressions) to create calculated columns and measures.
-- Visualize data using various charts, maps, tables, slicers, and more.
-- Apply filters, slicers, and drill-downs to make the dashboards interactive.
-- Publish and share the dashboards and reports with others.
+## Achievements
 
-## What I Achieved 🌟
+- **Hands-On Experience**: Gained practical experience by working on real-world datasets and business scenarios.
+- **Problem-Solving Skills**: Enhanced my analytical thinking by solving complex data challenges.
+- **Certification**: Earned a certificate of completion, validating my expertise in Power BI Desktop.
+- **Portfolio Development**: Built a portfolio of reports and dashboards that showcase my ability to derive insights and make data-driven decisions.
 
-As a final project, I created a dashboard that shows the sales performance of a fictional company called Adventure Works. The dashboard has four pages:
+## Projects
 
-- **Overview:** This page shows the total sales, profit, and profit margin by year, quarter, and month. It also has a map that shows the sales by country and a bar chart that shows the top 10 products by sales.
-- **Sales by Category:** This page shows the sales by product category and subcategory. It also has a pie chart that shows the sales by customer segment and a line chart that shows the sales trend by month.
-- **Sales by Region:** This page shows the sales by sales territory and region. It also has a donut chart that shows the sales by sales channel and a stacked column chart that shows the sales by product category and region.
-- **Sales by Customer:** This page shows the sales by customer name and city. It also has a tree map that shows the sales by product subcategory and a scatter chart that shows the relationship between sales and profit by customer.
+Here are some highlights of the projects I've worked on during the course:
 
-You can see the other dashboard in action:
-![Maven Market Dashboard](https://github.com/shayanrsh/PowerBI-Course/blob/main/MavenMarket_HQ.gif)
+1. **AdventureWorks Sales Analysis**: Analyzed sales data to track KPIs and regional performance.
+2. **Customer Segmentation**: Identified high-value customers and analyzed product-level trends.
 
-Feel free to explore the project, and if you have any questions or suggestions, don't hesitate to reach out. Thanks for joining me on this journey of mastering Power BI! 📊🚀
+Feel free to explore my projects and dashboards in this repository. Each project folder contains the Power BI Desktop files (.pbix) and a brief overview of the insights derived. 
+
+Thanks for joining me on this journey of mastering Power BI! 📊🚀
