@@ -25,6 +25,9 @@ Here are some highlights of the projects I've worked on during the course:
 1. **AdventureWorks Sales Analysis**: Analyzed sales data to track KPIs and regional performance.
 2. **Customer Segmentation**: Identified high-value customers and analyzed product-level trends.
 
+Please find the demo of another similar coursework project (Maven Market) below:
+![](https://github.com/shayanrsh/PowerBI-Course/blob/main/MavenMarket_HQ.gif)
+
 Feel free to explore my projects and dashboards in this repository. Each project folder contains the Power BI Desktop files (.pbix) and a brief overview of the insights derived. 
 
 Thanks for joining me on this journey of mastering Power BI! 📊🚀
